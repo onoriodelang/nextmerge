@@ -1,6 +1,6 @@
 # NextMerge — Neon Cyber Ninja
 
-A Unity 3D merge-and-throw game based on MergeSlash, reskinned with a neon cyber-ninja visual theme.
+A Unity 3D merge-and-throw game with a neon cyber-ninja visual theme.
 
 <img src="Assets/Content/Icon/NeonCyberNinja.png" alt="Neon Cyber Ninja app icon" width="240">
 
