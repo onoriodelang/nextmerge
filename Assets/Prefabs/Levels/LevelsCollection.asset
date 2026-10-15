@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c59593d97208444f81a846556c992f6, type: 3}
+  m_Name: LevelsCollection
+  m_EditorClassIdentifier: 
+  _overfillStrategy: 2
+  _shuffleStartId: 10
+  Levels:
+  - Level 1
+  - Level 2
+  - Level 3
+  - Bonus Lvl 1
+  - Level 4
+  - Level 5
+  - Level 6
+  - Bonus Lvl 2
+  - Level 7
+  - Level 8
+  - Level 9
+  - Bonus Lvl 3
+  - Level 10
+  - Level 11
+  - Level 12
+  - Bonus Lvl 4
+  - Level 13
+  - Level 14
+  - Level 15
+  - Bonus Lvl 5
+  BossLevels:
+  - BossLevel 1
+  - BossLevel 2
+  - BossLevel 3
+  - BossLevel 4
+  - BossLevel 5
+  LevelsBetweenBossLevels: 4

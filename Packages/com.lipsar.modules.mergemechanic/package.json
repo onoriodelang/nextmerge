@@ -1,0 +1,19 @@
+{
+  "name": "com.lipsar.modules.mergemechanic",
+  "displayName": "Modules.MergeMechanic",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.lipsar.modules.root.ecs": "1.0.3",
+    "com.lipsar.modules.levelspawner": "1.2.0",
+    "com.lipsar.modules.utils": "1.0.1",
+    "com.lipsar.modules.viewhub": "1.0.1"
+  },
+  "samples": [
+    {
+      "displayName": "Sample Configuration",
+      "description": "contains pre-configured assets to start working with package",
+      "path": "Samples~/SampleConfiguration"
+    }
+  ]
+}

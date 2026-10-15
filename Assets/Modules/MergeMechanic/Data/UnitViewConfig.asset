@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2f59e88a56a3a43b7cfc7ea55d85e0, type: 3}
+  m_Name: UnitViewConfig
+  m_EditorClassIdentifier: 
+  UnitViews:
+  - TypeID: 0
+    RootObject: {fileID: 3965738727740651640, guid: 05b912c3c7b969147a7e4edea018d4f1,
+      type: 3}
+    LevelViews:
+    - {fileID: -7190169961137845759, guid: 07d55110aae045145a5a7ac13ee536c5, type: 3}
+    - {fileID: 8181510819333825828, guid: a44d4ad8791e2f542a9230c798671ca7, type: 3}
+    - {fileID: 8181510819333825828, guid: 5bc21f02cecbcca4288850acf3327784, type: 3}
+    - {fileID: 8181510819333825828, guid: 8d668e1475d634e46a92471170beb29f, type: 3}
+    - {fileID: 8181510819333825828, guid: f0596542e7a02334a94f43379eed6e5d, type: 3}
+    - {fileID: 8181510819333825828, guid: 4f6f755eb7b9cd14fa44138cc9eed6e1, type: 3}
+  - TypeID: 1
+    RootObject: {fileID: 3965738727740651640, guid: b3052566b219ebc4ba67e259a4aedb4f,
+      type: 3}
+    LevelViews:
+    - {fileID: -7190169961137845759, guid: d14c3e5bcc5948347bcff7e1da8d398b, type: 3}
+    - {fileID: 436982496728310113, guid: 1ed89681bc40e4a4194fb0f546a8d7cf, type: 3}
+    - {fileID: 436982496728310113, guid: 701471259263b824b90ed1bb560d34c4, type: 3}
+    - {fileID: 436982496728310113, guid: 9f7e9c83c90f69941b553dedcc7f3530, type: 3}
+    - {fileID: 436982496728310113, guid: 95603744c59a4fe4c9aa65d268f4be84, type: 3}
+    - {fileID: 436982496728310113, guid: fb6710323021cac41bf021d259f28eb6, type: 3}
+  - TypeID: 2
+    RootObject: {fileID: 3965738727740651640, guid: 175fdae0b80247b4ca081da3a5796e7c,
+      type: 3}
+    LevelViews:
+    - {fileID: -7190169961137845759, guid: 7310d03442ef6694498f89d523156972, type: 3}
+    - {fileID: 300172804732283298, guid: 250022bb74bfb734f8894ff3d85c4fdb, type: 3}
+    - {fileID: 300172804732283298, guid: 855f3d14714499746beaddeb92f7d569, type: 3}
+    - {fileID: 300172804732283298, guid: 7d6833ab10cd57d42b2791ec22670de8, type: 3}
+    - {fileID: 300172804732283298, guid: 3f298b5efc3e01541a259bcee53fe572, type: 3}
+    - {fileID: 300172804732283298, guid: 73d871df007cc4841a3fd22fdb220312, type: 3}
+  - TypeID: 3
+    RootObject: {fileID: 3965738727740651640, guid: cc32a1b9f9665e646a3fbc44b678c3b5,
+      type: 3}
+    LevelViews:
+    - {fileID: -7190169961137845759, guid: b1dfb9fefa81e1642a8f89b306582072, type: 3}
+    - {fileID: 6971376231225178037, guid: a9a69b0ad0de8644eb86fa8c5437c097, type: 3}
+    - {fileID: 6971376231225178037, guid: 67614c72218f8cd42aeebc73f20cd189, type: 3}
+    - {fileID: 6971376231225178037, guid: e23f9e230c28b424bbe870090946c0c4, type: 3}
+    - {fileID: 6971376231225178037, guid: 1ee1dbed36177c9408656387e68fc78e, type: 3}
+    - {fileID: 6971376231225178037, guid: 5b28ff8911b31024eb90a3721b702604, type: 3}

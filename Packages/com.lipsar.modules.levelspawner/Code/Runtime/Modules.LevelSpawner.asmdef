@@ -1,0 +1,19 @@
+{
+    "name": "Modules.LevelSpawner",
+    "references": [
+        "Leopotam.Ecs",
+        "Modules.Root.ECS",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Modules.ViewHub"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

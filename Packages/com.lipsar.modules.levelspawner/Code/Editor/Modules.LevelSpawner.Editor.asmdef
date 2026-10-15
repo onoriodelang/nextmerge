@@ -1,0 +1,17 @@
+{
+    "name": "Modules.LevelSpawner.Editor",
+    "references": [
+        "Modules.LevelSpawner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

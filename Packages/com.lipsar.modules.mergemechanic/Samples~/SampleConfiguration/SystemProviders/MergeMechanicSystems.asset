@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80dbbb9d2db24247888979dc5e04783, type: 3}
+  m_Name: MergeMechanicSystems
+  m_EditorClassIdentifier: 
+  _unitViewConfig: {fileID: 11400000, guid: 65b64042d70aee8459dc083ff899eb0d, type: 2}
+  _dragConfig: {fileID: 11400000, guid: 7c02bbd71f50cf4469842e90df9ac097, type: 2}
+  _saveConfig: {fileID: 11400000, guid: ccd45245f660cb44fbd130f9e085ff0c, type: 2}
+  _tileConfig: {fileID: 11400000, guid: 5dde176c13503cd4596ec8ea8fa68baa, type: 2}
+  _hintConfig: {fileID: 11400000, guid: 5fd0e6e49698bbf4599eed48a692dc5d, type: 2}
+  _inititialUnitsConfig: {fileID: 11400000, guid: 46b03021d80c86b43bb5c342d74bc1da,
+    type: 2}

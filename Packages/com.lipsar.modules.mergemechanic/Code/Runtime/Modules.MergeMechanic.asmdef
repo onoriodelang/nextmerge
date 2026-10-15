@@ -1,0 +1,21 @@
+{
+    "name": "Modules.MergeMechanic",
+    "rootNamespace": "Modules.MergeMechanic",
+    "references": [
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:b2a8b5c1b6d7e2746be51ccf7e328dc5",
+        "GUID:72eef1ebc88869847978e60394768d2a",
+        "GUID:2e37b6e5a19e44148b89f41b707f3e57",
+        "GUID:c1a1e34c7cf45d844961cb05d26f00fa",
+        "GUID:7f3e0545d17a7444297d5096a20e42b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

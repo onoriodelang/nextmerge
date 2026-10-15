@@ -1,0 +1,19 @@
+{
+  "name": "com.lipsar.modules.levelspawner",
+  "displayName": "Modules.LevelSpawner",
+  "version": "1.2.0",
+  "unity": "2019.4",
+  "description": "HK oriented addresable level spawner",
+  "keywords": [
+    "extension",
+    "hk",
+    "modules",
+    "levels",
+    "spawner"
+  ],
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.addressables": "1.8.5",
+    "com.lipsar.modules.root.ecs": "1.0.0"
+  }
+}

@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 91b81da6b3fafcd4993774608aa66a8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8837471179428268771
+    second: Merge_Slash_atlas1024_0
+  - first:
+      213: -1079462469130463207
+    second: Merge_Slash_atlas1024_1
+  - first:
+      213: -5350085849914493731
+    second: Merge_Slash_atlas1024_2
+  - first:
+      213: 1821017466815395577
+    second: Merge_Slash_atlas1024_3
+  - first:
+      213: 7700524906897571555
+    second: Merge_Slash_atlas1024_4
+  - first:
+      213: -4603755744575524900
+    second: Merge_Slash_atlas1024_5
+  - first:
+      213: 4637065322526758773
+    second: Merge_Slash_atlas1024_6
+  - first:
+      213: 1878841029169637983
+    second: Merge_Slash_atlas1024_7
+  - first:
+      213: 2634954678670754333
+    second: Merge_Slash_atlas1024_8
+  - first:
+      213: -7549007959524937526
+    second: Merge_Slash_atlas1024_9
+  - first:
+      213: 5632311743726044926
+    second: Merge_Slash_atlas1024_10
+  - first:
+      213: -3502696740332138903
+    second: Merge_Slash_atlas1024_11
+  - first:
+      213: 3763935196616196724
+    second: Merge_Slash_atlas1024_12
+  - first:
+      213: -4397907454279955519
+    second: Merge_Slash_atlas1024_13
+  - first:
+      213: -2732251442093238264
+    second: Merge_Slash_atlas1024_14
+  - first:
+      213: -5356948335968975700
+    second: Merge_Slash_atlas1024_15
+  - first:
+      213: 8212921996070562917
+    second: Merge_Slash_atlas1024_16
+  - first:
+      213: 1416282662133866189
+    second: Merge_Slash_atlas1024_17
+  - first:
+      213: -2639759443092372217
+    second: Merge_Slash_atlas1024_18
+  - first:
+      213: -2831434882765965550
+    second: Merge_Slash_atlas1024_19
+  - first:
+      213: -4265430510939992586
+    second: Merge_Slash_atlas1024_20
+  - first:
+      213: -5980692055249250429
+    second: Merge_Slash_atlas1024_21
+  - first:
+      213: 3759268557085780346
+    second: Merge_Slash_atlas1024_22
+  - first:
+      213: 5230035423958067147
+    second: Merge_Slash_atlas1024_23
+  - first:
+      213: 8501143633738689827
+    second: Merge_Slash_atlas1024_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fc6509cefa5580800000000000000
+      internalID: -8837471179428268771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 66
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918dc138a9af401f0800000000000000
+      internalID: -1079462469130463207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 203
+        width: 66
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b006f34da0c5b0800000000000000
+      internalID: -5350085849914493731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 203
+        width: 66
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 29, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63057ecbd854910800000000000000
+      internalID: 1821017466815395577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 307
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7dab8a92cdda60800000000000000
+      internalID: 7700524906897571555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 167
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf69e3ca8c2c10c0800000000000000
+      internalID: -4603755744575524900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 189
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775d75b75a2a5040800000000000000
+      internalID: 4637065322526758773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 199
+        width: 113
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 0, z: 55, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae51526fbf21a10800000000000000
+      internalID: 1878841029169637983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d128c65d15d319420800000000000000
+      internalID: 2634954678670754333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07be5d1498c3790800000000000000
+      internalID: -7549007959524937526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef64d0d80bdf92e40800000000000000
+      internalID: 5632311743726044926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 58
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 23, z: 27, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e859c6fdbe36fc0800000000000000
+      internalID: -3502696740332138903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 99
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47206ef7e1f2c3430800000000000000
+      internalID: 3763935196616196724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 104
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc990b87e77f2c0800000000000000
+      internalID: -4397907454279955519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 102
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808dbfc1ac7151ad0800000000000000
+      internalID: -2732251442093238264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4037aeedb48a5b0800000000000000
+      internalID: -5356948335968975700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c27cf9a092af170800000000000000
+      internalID: 8212921996070562917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9802d395a7a310800000000000000
+      internalID: 1416282662133866189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 23, z: 27, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050ff5c5c0bd5bd0800000000000000
+      internalID: -2639759443092372217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b518c9f8b4b8d0800000000000000
+      internalID: -2831434882765965550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd0f4dac852ec4c0800000000000000
+      internalID: -4265430510939992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871ed74340500da0800000000000000
+      internalID: -5980692055249250429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a460d5da9b2430800000000000000
+      internalID: 3759268557085780346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7eab71281d49840800000000000000
+      internalID: 5230035423958067147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merge_Slash_atlas1024_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d619908112af570800000000000000
+      internalID: 8501143633738689827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0668401ec74987447a8711b2d4dd3e91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Merge_Slash_atlas1024_0: -8837471179428268771
+      Merge_Slash_atlas1024_1: -1079462469130463207
+      Merge_Slash_atlas1024_10: 5632311743726044926
+      Merge_Slash_atlas1024_11: -3502696740332138903
+      Merge_Slash_atlas1024_12: 3763935196616196724
+      Merge_Slash_atlas1024_13: -4397907454279955519
+      Merge_Slash_atlas1024_14: -2732251442093238264
+      Merge_Slash_atlas1024_15: -5356948335968975700
+      Merge_Slash_atlas1024_16: 8212921996070562917
+      Merge_Slash_atlas1024_17: 1416282662133866189
+      Merge_Slash_atlas1024_18: -2639759443092372217
+      Merge_Slash_atlas1024_19: -2831434882765965550
+      Merge_Slash_atlas1024_2: -5350085849914493731
+      Merge_Slash_atlas1024_20: -4265430510939992586
+      Merge_Slash_atlas1024_21: -5980692055249250429
+      Merge_Slash_atlas1024_22: 3759268557085780346
+      Merge_Slash_atlas1024_23: 5230035423958067147
+      Merge_Slash_atlas1024_24: 8501143633738689827
+      Merge_Slash_atlas1024_3: 1821017466815395577
+      Merge_Slash_atlas1024_4: 7700524906897571555
+      Merge_Slash_atlas1024_5: -4603755744575524900
+      Merge_Slash_atlas1024_6: 4637065322526758773
+      Merge_Slash_atlas1024_7: 1878841029169637983
+      Merge_Slash_atlas1024_8: 2634954678670754333
+      Merge_Slash_atlas1024_9: -7549007959524937526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
